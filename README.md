@@ -1,9 +1,10 @@
 # Sorting Visualizer
-This is a Web Application which lets you visualize different sorting algorithms like Bubble Sort, Merge Sort, etc. 
+This is a Web Application which lets you visualize different sorting algorithms like Bubble Sort, Merge Sort, etc. \
+The web app can be accessed by clicking <a href="https://anushka-sorting-visualizer.netlify.app/">HERE</a>
 
 
 ## Features
-1. It helps to visualize various sorting algorithms like bubble srot, merge sort, etc.
+1. It helps to visualize various sorting algorithms like bubble sort, merge sort, etc.
 2. It makes the understanding of these algorithms easier.
 3. User-friendly interface
 4. The size of the array and speed of animation is adjustable.
